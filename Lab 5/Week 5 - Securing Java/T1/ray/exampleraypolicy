@@ -1,0 +1,7 @@
+/* AUTOMATICALLY GENERATED ON Thu Oct 12 10:25:12 WEST 2017*/
+/* DO NOT EDIT */
+
+grant signedBy "susan" {
+  permission java.io.FilePermission "<<ALL FILES>>", "read";
+};
+
